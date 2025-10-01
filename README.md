@@ -1,4 +1,4 @@
-Name: Payal Singh
-UID: 23BCS13626
-Section: 23BCS_KRG1A
-Kindly Check README files for both the projects. Added Screenshots for Reference.
+- Name: Payal Singh
+- UID: 23BCS13626
+- Section: 23BCS_KRG1A
+- Kindly Check README files for both the projects. Added Screenshots for Reference.
